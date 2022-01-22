@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "158062157635",
+    "firebase_url": "https://trees42-c88f2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "trees42-c88f2",
+    "storage_bucket": "trees42-c88f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158062157635:android:69c025be48c11d068e59f6",
+        "android_client_info": {
+          "package_name": "com.example.trees42"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158062157635-45nvjnvrodq1tmvu68tum7hbrao67co6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrym0BC_1CrnZXk9YWMoSizWTcMmFBvKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158062157635-45nvjnvrodq1tmvu68tum7hbrao67co6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

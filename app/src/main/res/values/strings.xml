@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Trees42</string>
+    <string name="web_client_id">158062157635-45nvjnvrodq1tmvu68tum7hbrao67co6.apps.googleusercontent.com</string>
+    <string name="sign_in_error">Sign in failed</string>
+</resources>
